@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  agentic-call-center:
+    build:
+      context: ..
+      dockerfile: infra/Dockerfile
+    working_dir: /app
+    container_name: agentic-call-center
+    ports:
+      - "8000:8000"
+    env_file:
+      - ../.env
+    environment:
+      - GROQ_MODEL=${GROQ_MODEL:-llama-3.1-70b-versatile}
+      - EMBEDDING_MODEL=${EMBEDDING_MODEL:-sentence-transformers/all-MiniLM-L6-v2}
+      - VECTOR_STORE_PATH=/app/chroma_db
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    volumes:
+      - ../chroma_db:/app/chroma_db
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+

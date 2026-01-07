@@ -1,0 +1,27 @@
+# Web framework
+fastapi==0.104.1
+uvicorn==0.24.0
+anyio==3.7.1
+pydantic==2.5.0
+
+# LangGraph / LangChain stack (STRICTLY COMPATIBLE)
+# Using versions compatible with each other
+langchain-core
+langchain
+langchain-community
+langgraph
+# langchain-groq: Using version 0.3.8 which supports langchain-core 0.2.x
+langchain-groq
+
+# Groq SDK
+groq
+# Embeddings (using local HuggingFace model)
+sentence-transformers
+transformers
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Vector store
+chromadb==0.4.22
