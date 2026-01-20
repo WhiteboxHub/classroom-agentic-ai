@@ -1,0 +1,6 @@
+google-adk
+langchain
+langchain-community
+sentence-transformers
+pymilvus
+uvicorn
