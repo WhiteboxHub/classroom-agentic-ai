@@ -1,0 +1,347 @@
+[2026-01-27 12:14:21,198] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:14:21,200] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:14:21,239] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:14:21,244] [INFO] [main] App started
+[2026-01-27 12:14:21,245] [INFO] [main] App started
+[2026-01-27 12:14:21,245] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:14:21,245] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:14:25,609] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:14:25,609] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:14:25,646] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:14:25,650] [INFO] [main] App started
+[2026-01-27 12:14:25,650] [INFO] [main] App started
+[2026-01-27 12:14:25,651] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:14:25,651] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:14:28,292] [INFO] [main] /chat called
+[2026-01-27 12:14:29,352] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:14:29,352] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:14:30,656] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:14:30,656] [INFO] [db.queries.appointment_queries] finding patientid 
+[2026-01-27 12:14:30,657] [INFO] [tools.appointment_tools] the eroror in app booking cannot access local variable 'session' where it is not associated with a value
+[2026-01-27 12:14:30,660] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:14:31,761] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:16:25,125] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:16:25,134] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:16:25,134] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:16:25,134] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:16:25,152] [INFO] [main] App started
+[2026-01-27 12:16:25,152] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:16:32,572] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:16:32,573] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:16:32,588] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:16:32,588] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:16:32,595] [INFO] [main] App started
+[2026-01-27 12:16:32,596] [INFO] [main] App started
+[2026-01-27 12:16:32,596] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:16:32,597] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:16:33,920] [INFO] [main] /chat called
+[2026-01-27 12:16:35,333] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:16:35,333] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:16:36,620] [INFO] [db.queries.appointment_queries] finding patientid 
+[2026-01-27 12:16:36,620] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:16:36,621] [INFO] [tools.appointment_tools] the eroror in app booking cannot access local variable 'session' where it is not associated with a value
+[2026-01-27 12:16:36,625] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:16:37,716] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:16:55,694] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:16:55,729] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:16:55,735] [INFO] [main] App started
+[2026-01-27 12:16:55,736] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:16:55,966] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:16:55,980] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:16:55,986] [INFO] [main] App started
+[2026-01-27 12:16:55,987] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:16:58,698] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:16:58,717] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:16:58,725] [INFO] [main] App started
+[2026-01-27 12:16:58,726] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:16:58,956] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:16:58,971] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:16:58,977] [INFO] [main] App started
+[2026-01-27 12:16:58,978] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:17:01,865] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:17:01,880] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:17:01,886] [INFO] [main] App started
+[2026-01-27 12:17:01,887] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:17:02,097] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:17:02,113] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:17:02,117] [INFO] [main] App started
+[2026-01-27 12:17:02,117] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:17:02,128] [INFO] [main] /chat called
+[2026-01-27 12:17:03,192] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:17:03,192] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:17:04,487] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:17:04,487] [INFO] [tools.appointment_tools] the eroror in app booking cannot access local variable 'session' where it is not associated with a value
+[2026-01-27 12:17:04,492] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:17:05,787] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:19:12,670] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:12,701] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:12,710] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:12,710] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:12,721] [INFO] [main] App started
+[2026-01-27 12:19:12,721] [INFO] [main] App started
+[2026-01-27 12:19:12,721] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:12,723] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:28,386] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:28,388] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:28,398] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:28,401] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:28,405] [INFO] [main] App started
+[2026-01-27 12:19:28,406] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:28,407] [INFO] [main] App started
+[2026-01-27 12:19:28,408] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:34,285] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:34,285] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:34,293] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:34,293] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:34,305] [INFO] [main] App started
+[2026-01-27 12:19:34,305] [INFO] [main] App started
+[2026-01-27 12:19:34,305] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:34,306] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:37,964] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:37,968] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:37,969] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:37,969] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:37,984] [INFO] [main] App started
+[2026-01-27 12:19:37,985] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:37,987] [INFO] [main] App started
+[2026-01-27 12:19:37,988] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:40,997] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:40,997] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:41,001] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:41,001] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:41,017] [INFO] [main] App started
+[2026-01-27 12:19:41,017] [INFO] [main] App started
+[2026-01-27 12:19:41,018] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:44,103] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:44,103] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:44,115] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:44,116] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:44,121] [INFO] [main] App started
+[2026-01-27 12:19:44,121] [INFO] [main] App started
+[2026-01-27 12:19:44,121] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:44,122] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:50,462] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:50,472] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:50,482] [INFO] [main] App started
+[2026-01-27 12:19:50,484] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:50,615] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:50,631] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:50,637] [INFO] [main] App started
+[2026-01-27 12:19:50,639] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:53,675] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:53,689] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:53,696] [INFO] [main] App started
+[2026-01-27 12:19:53,697] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:19:53,709] [INFO] [main] /chat called
+[2026-01-27 12:19:53,849] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:19:53,866] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:19:53,873] [INFO] [main] App started
+[2026-01-27 12:19:53,873] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:26,467] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:26,478] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:26,483] [INFO] [main] App started
+[2026-01-27 12:20:26,483] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:26,523] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:26,535] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:26,542] [INFO] [main] App started
+[2026-01-27 12:20:26,542] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:29,398] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:29,411] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:29,415] [INFO] [main] App started
+[2026-01-27 12:20:29,416] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:29,441] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:29,453] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:29,459] [INFO] [main] App started
+[2026-01-27 12:20:29,459] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:32,766] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:32,779] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:32,783] [INFO] [main] App started
+[2026-01-27 12:20:32,783] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:32,889] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:32,903] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:32,910] [INFO] [main] App started
+[2026-01-27 12:20:32,911] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:35,614] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:35,628] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:35,632] [INFO] [main] App started
+[2026-01-27 12:20:35,632] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:35,737] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:35,750] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:35,757] [INFO] [main] App started
+[2026-01-27 12:20:35,757] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:38,637] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:38,651] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:38,658] [INFO] [main] App started
+[2026-01-27 12:20:38,659] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:38,724] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:38,739] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:38,745] [INFO] [main] App started
+[2026-01-27 12:20:38,746] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:41,373] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:41,384] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:41,389] [INFO] [main] App started
+[2026-01-27 12:20:41,389] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:41,445] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:20:41,456] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:20:41,461] [INFO] [main] App started
+[2026-01-27 12:20:41,461] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:20:45,321] [INFO] [main] /chat called
+[2026-01-27 12:20:46,591] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:20:46,592] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:20:47,922] [INFO] [llm.client] inside the for loop for event
+ientid None
+[2026-01-27 12:20:47,922] [INFO] [db.queries.appointment_queries] finding patientid {patient_id}
+[2026-01-27 12:20:48,122] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:20:49,388] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:23:36,648] [INFO] [main] /chat called
+[2026-01-27 12:23:36,649] [INFO] [llm.client] trying to find session
+[2026-01-27 12:23:38,000] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:23:44,279] [INFO] [main] /chat called
+[2026-01-27 12:23:44,281] [INFO] [llm.client] trying to find session
+[2026-01-27 12:23:45,625] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:23:45,625] [INFO] [db.queries.appointment_queries] finding patientid None
+[2026-01-27 12:23:45,626] [INFO] [db.queries.appointment_queries] finding patientid {patient_id}
+[2026-01-27 12:23:45,640] [ERROR] [db.queries.appointment_queries] error in the appointment booking {e}
+[2026-01-27 12:23:45,645] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:23:46,810] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:24:13,188] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:24:13,225] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:24:13,231] [INFO] [main] App started
+[2026-01-27 12:24:13,231] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:24:13,295] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:24:13,310] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:24:13,315] [INFO] [main] App started
+[2026-01-27 12:24:13,316] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:24:16,147] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:24:16,158] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:24:16,162] [INFO] [main] App started
+[2026-01-27 12:24:16,163] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:24:16,203] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:24:16,215] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:24:16,221] [INFO] [main] App started
+[2026-01-27 12:24:16,222] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:24:18,144] [INFO] [main] /chat called
+[2026-01-27 12:24:19,183] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:24:19,184] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:24:20,470] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:24:24,982] [INFO] [main] /chat called
+[2026-01-27 12:24:24,983] [INFO] [llm.client] trying to find session
+[2026-01-27 12:24:26,394] [INFO] [db.queries.appointment_queries] finding patientid None
+[2026-01-27 12:24:26,394] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:24:26,395] [INFO] [db.queries.appointment_queries] finding patientid {patient_id}
+[2026-01-27 12:24:26,442] [ERROR] [db.queries.appointment_queries] error in the appointment booking (psycopg.errors.UndefinedFunction) operator does not exist: date = character varying
+LINE 3: ...r_id = $1::UUID AND appointments.appointment_date = $2::VARC...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+[SQL: SELECT appointments.id AS appointments_id, appointments.doctor_id AS appointments_doctor_id, appointments.patient_id AS appointments_patient_id, appointments.appointment_date AS appointments_appointment_date, appointments.appointment_time AS appointments_appointment_time, appointments.status AS appointments_status, appointments.created_at AS appointments_created_at, appointments.updated_at AS appointments_updated_at 
+FROM appointments 
+WHERE appointments.doctor_id = %(doctor_id_1)s::UUID AND appointments.appointment_date = %(appointment_date_1)s::VARCHAR AND appointments.appointment_time = %(appointment_time_1)s::VARCHAR AND appointments.status IN (%(status_1_1)s::VARCHAR, %(status_1_2)s::VARCHAR) 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'doctor_id_1': UUID('5b2c7f91-0a34-4d6a-bc7e-12a8d5f4c901'), 'appointment_date_1': 'jan 29 2026', 'appointment_time_1': '8 pm', 'param_1': 1, 'status_1_1': <AppointmentStatus.booked: 'booked'>, 'status_1_2': <AppointmentStatus.confirmed: 'confirmed'>}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2026-01-27 12:24:26,446] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:24:27,719] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:25:39,349] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:25:39,349] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:25:39,388] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:25:39,388] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:25:39,392] [INFO] [main] App started
+[2026-01-27 12:25:39,392] [INFO] [main] App started
+[2026-01-27 12:25:39,393] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:25:39,393] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:20,425] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:20,425] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:20,471] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:20,471] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:20,476] [INFO] [main] App started
+[2026-01-27 12:46:20,476] [INFO] [main] App started
+[2026-01-27 12:46:20,476] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:20,478] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:25,531] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:25,562] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:25,567] [INFO] [main] App started
+[2026-01-27 12:46:25,568] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:25,610] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:25,624] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:25,631] [INFO] [main] App started
+[2026-01-27 12:46:25,632] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:39,191] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:39,223] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:39,229] [INFO] [main] App started
+[2026-01-27 12:46:39,229] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:39,347] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:39,364] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:39,369] [INFO] [main] App started
+[2026-01-27 12:46:39,370] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:42,154] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:42,169] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:42,173] [INFO] [main] App started
+[2026-01-27 12:46:42,174] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:42,300] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:42,314] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:42,319] [INFO] [main] App started
+[2026-01-27 12:46:42,319] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:56,049] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:56,078] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:56,084] [INFO] [main] App started
+[2026-01-27 12:46:56,084] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:56,088] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:56,102] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:56,109] [INFO] [main] App started
+[2026-01-27 12:46:56,109] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:59,196] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:59,211] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:59,218] [INFO] [main] App started
+[2026-01-27 12:46:59,218] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:46:59,224] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:46:59,236] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:46:59,243] [INFO] [main] App started
+[2026-01-27 12:46:59,243] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:47:09,762] [INFO] [main] /chat called
+[2026-01-27 12:47:11,191] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:47:11,192] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:47:12,317] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:47:19,066] [INFO] [main] /chat called
+[2026-01-27 12:47:19,068] [INFO] [llm.client] trying to find session
+[2026-01-27 12:47:19,970] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:47:27,801] [INFO] [main] /chat called
+[2026-01-27 12:47:27,804] [INFO] [llm.client] trying to find session
+[2026-01-27 12:47:29,360] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:47:29,360] [INFO] [db.queries.appointment_queries] finding patientid 2c9d5f71-8a34-4e2b-93a6-5b1f7c8d4e10
+[2026-01-27 12:47:29,361] [INFO] [db.queries.appointment_queries] finding patientid {patient_id}
+[2026-01-27 12:47:29,407] [ERROR] [db.queries.appointment_queries] error in the appointment booking (psycopg.errors.UndefinedFunction) operator does not exist: date = character varying
+LINE 3: ...r_id = $1::UUID AND appointments.appointment_date = $2::VARC...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+[SQL: SELECT appointments.id AS appointments_id, appointments.doctor_id AS appointments_doctor_id, appointments.patient_id AS appointments_patient_id, appointments.appointment_date AS appointments_appointment_date, appointments.appointment_time AS appointments_appointment_time, appointments.status AS appointments_status, appointments.created_at AS appointments_created_at, appointments.updated_at AS appointments_updated_at 
+FROM appointments 
+WHERE appointments.doctor_id = %(doctor_id_1)s::UUID AND appointments.appointment_date = %(appointment_date_1)s::VARCHAR AND appointments.appointment_time = %(appointment_time_1)s::VARCHAR AND appointments.status IN (%(status_1_1)s::VARCHAR, %(status_1_2)s::VARCHAR) 
+ LIMIT %(param_1)s::INTEGER]
+[parameters: {'doctor_id_1': '5b2c7f91-0a34-4d6a-bc7e-12a8d5f4c901', 'appointment_date_1': 'jan 29 2026', 'appointment_time_1': '8 pm', 'param_1': 1, 'status_1_1': <AppointmentStatus.booked: 'booked'>, 'status_1_2': <AppointmentStatus.confirmed: 'confirmed'>}]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+[2026-01-27 12:47:29,411] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:47:30,606] [INFO] [llm.client] inside the for loop for event
+[2026-01-27 12:49:07,918] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:49:07,919] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:49:07,950] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:49:07,950] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:49:07,956] [INFO] [main] App started
+[2026-01-27 12:49:07,956] [INFO] [main] App started
+[2026-01-27 12:49:07,956] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:49:07,957] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:49:11,155] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:49:11,165] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:49:11,192] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:49:11,192] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:49:11,197] [INFO] [main] App started
+[2026-01-27 12:49:11,197] [INFO] [main] App started
+[2026-01-27 12:49:11,197] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:49:11,197] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:49:20,181] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:49:20,213] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:49:20,219] [INFO] [main] App started
+[2026-01-27 12:49:20,219] [INFO] [memory.in_memory] Memory Runner Started
+[2026-01-27 12:49:20,376] [INFO] [db.session] PostgreSQL engine created
+[2026-01-27 12:49:20,390] [INFO] [tools.appointment_tools] App started
+[2026-01-27 12:49:20,396] [INFO] [main] App started
+[2026-01-27 12:49:20,396] [INFO] [memory.in_memory] Memory Runner Started
