@@ -5,6 +5,12 @@ from google.genai import types
 from google.adk.events import Event
 import uuid
 import asyncio
+
+
+
+
+
+
 def run_coordinator(runner: InMemoryRunner, request: str,session_id : str = None, user_id : str = 'abc_u1'):
     """Runs the coordinator agent with a given request and delegates."""
     print(f"\n--- Running Coordinator with request: '{request}' ---")

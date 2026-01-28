@@ -1,10 +1,15 @@
 from google.adk.tools import FunctionTool
 
+
+from pydantic import BaseModel
+from typing import Optional
+from ..utils.data_queries.get_data import appointment_list,appointment_booking
+from datetime import date as DateType, time as TimeType
+
 class appointment_tools:
     @staticmethod
-    def appointment_booking(doctor_name: str, date: str, time: str) -> str:
+    def appointment_booking(doctor_name: str, date: DateType, time: TimeType) -> str:
         """Books an appointment with the specified doctor.
-        
         Args:
             doctor_name: The name of the doctor.
             date: The date of the appointment.
@@ -13,7 +18,12 @@ class appointment_tools:
         Returns:
             The status of the appointment booking.
         """
-        return f"Appointment booked with {doctor_name} on {date} at {time}"
+        try:
+           res =  appointment_booking(doctor_name,date,time)
+        except Exception as e:
+            print(f"the eroror in app booking {e}")
+            return "error occured while booking {e}"
+        return res
 
     @staticmethod
     def appointment_cancellation(doctor_name: str, date: str, time: str) -> str:
@@ -81,7 +91,15 @@ class appointment_tools:
         Returns:
             The list of appointments for the specified doctor.
         """
-        return f"Appointments for {doctor_name}: {['appointment1', 'appointment2', 'appointment3']}"
+        try:
+            print(f"appointment list is called")
+            data = appointment_list(doctor_name)
+        except Exception as e:
+            print(f"appointment list failed with error {e}")
+            return str(e)
+        
+
+        return data
     
     def get_tools(self):
         return [

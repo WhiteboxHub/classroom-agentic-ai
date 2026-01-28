@@ -4,3 +4,7 @@ langchain-community
 sentence-transformers
 pymilvus
 uvicorn
+fastapi
+sqlalchemy
+psycopg2-binary
+python-dotenv
